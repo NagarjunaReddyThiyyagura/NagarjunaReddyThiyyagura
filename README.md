@@ -1,4 +1,5 @@
-# 💫 About Me: I build end-to-end systems across full-stack applications, data platforms, and machine automation—covering APIs, data pipelines, automation workflows, and machine integrations. Passionate about scalable architecture and owning problems from idea to production with real-world impact.
+# 💫 About Me:
+I build end-to-end systems across full-stack applications, data platforms, and machine automation—covering APIs, data pipelines, automation workflows, and machine integrations. Passionate about scalable architecture and owning problems from idea to production with real-world impact.
 
 
 ## 🌐 Socials:
